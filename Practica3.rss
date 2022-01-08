@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>RSS Prática Tema 3</title>
+        <link>http://www.eduardopico.com</link>
+        <description> Ejercicio 1 de la práctica 3 de lenguajes de marcas </description>
+        <language>es</language>
+        <item>
+            <title>Tiempo en Madrid</title>
+            <guid>https://www.tiempo.es/madrid-madrid-es0ma0079.html</guid>
+            <description>Tiempo en Madrid  a diario </description>
+        </item>
+        <item>
+            <title>Viva el roscón de Reyes</title>
+            <guid>https://www.europapress.es/madrid/noticia-cerca-600-pastelerias-artesanas-madrilenas-estiman-vender-25-millones-unidades-roscon-reyes-20220106085955.html</guid>
+            <description>Gran cantidad de roscones de Reyes vendidos en Madrid</description>
+        </item>
+    </channel>
+</rss>
